@@ -1,0 +1,14 @@
+/.idea/
+/cmake-build-debug/CMakeFiles/
+/cmake-build-debug/cmake_install.cmake
+/cmake-build-debug/Testing/Temporary/
+/cmake-build-debug/1.txt
+/cmake-build-debug/2.txt
+/cmake-build-debug/3.txt
+/cmake-build-debug/4.txt
+/cmake-build-debug/CMakeCache.txt
+/cmake-build-debug/Makefile
+/cmake-build-debug/untitled.cbp
+/cmake-build-debug/untitled.exe
+/cmake-build-debug/untitled.ilk
+/cmake-build-debug/untitled.pdb
